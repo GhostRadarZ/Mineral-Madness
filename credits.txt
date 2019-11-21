@@ -1,0 +1,142 @@
+Credits
+
+******************************************************************************
+
+Game
+
+******************************************************************************
+
+Gameplay:
+Kevin Quijalvo
+Lucas Grala
+Aaron Castellino
+
+Menus:
+Aaron Castellino
+Julian Lobo
+Cassandra Mojica 
+
+******************************************************************************
+
+Character Animations
+
+******************************************************************************
+
+Pebble:
+Cassandra Mojica
+Kamil Witek
+
+Crystal:
+Kevin Quijalvo
+
+Magma:
+Aaron Castellino
+
+Pharaoh:
+Alexander Scire
+
+******************************************************************************
+
+Stage Art
+
+******************************************************************************
+
+Salty Rock Ravine:
+Cassandra Mojica
+
+Crystal Cove:
+Kevin Quijalvo
+
+Rumble Volcano:
+Aaron Castellino
+
+Ancient Temple:
+Alexander Scire
+
+******************************************************************************
+
+Music and Sound Effects
+
+******************************************************************************
+
+Menu Theme:
+Rodi Zibar
+Kevin Quijalvo
+Cassandra Mojica
+
+Salty Rock Ravine Theme:
+"Rude Buster" by Toby Fox
+
+Crystal Cove Theme:
+"THE WORLD REVOLVING" by Toby Fox
+
+Rumble Volcano Theme:
+"Megalovania" by Toby Fox
+
+Ancient Temple Theme:
+"Chaos King" by Toby Fox
+
+Character Sound Effects:
+Kevin Quijalvo
+
+Voiceovers:
+Lucas Grala 
+
+******************************************************************************
+
+Media
+
+******************************************************************************
+
+Website:
+Cassandra Mojica
+Kevin Quijalvo
+Aaron Castellino
+Alexander Scire
+Kamil Witek
+Mark McCoy
+Rafik Kamel
+
+Videos:
+Alexander Scire
+
+******************************************************************************
+
+Documentation
+
+******************************************************************************
+
+Preliminary Scope Statement:
+Julian Lobo
+
+Unified Modeling Language Drawing:
+Julian Lobo
+Kevin Quijalvo
+
+Final Report:
+Julian Lobo
+
+******************************************************************************
+
+Project Management
+
+******************************************************************************
+
+Manager:
+Lucas Grala
+
+Gantt Chart:
+Lucas Grala
+
+******************************************************************************
+
+Miscellaneous
+
+******************************************************************************
+
+DCC Ash Font:
+dccanim - http://dccanim.deviantart.com
+
+******************************************************************************
+
+Dedicated to Bobo Jones
