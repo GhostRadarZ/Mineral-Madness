@@ -1,5 +1,8 @@
 # Mineral Madness [![Current Version](https://img.shields.io/github/v/tag/mkevinq/mineral-madness)](https://github.com/mkevinq/releases/tags) ![Repo Size](https://img.shields.io/github/repo-size/mkevinq/mineral-madness)
 
+![welcome](https://drive.google.com/uc?id=1_B-ef-vASPukUY0N-ZhlxnV5GB_SCmP5&export=download)
+![demo1](https://drive.google.com/uc?id=19gdcHLwLER9zeZbG9SIk0PYNrHXMuVJP&export=download)
+
 Mineral Madness is a fighting game based around minerals. It features a fair
 amount of mineral based characters each with their own unique characteristics.
 The player can choose to fight in various beautiful environments that have
@@ -30,6 +33,7 @@ the stage. The last one standing is the winner. Choose to fight against the Comp
     * Nintendo Switch Pro Controller
     * Official GameCube Controller Adapter (m4sv driver on port 1)
 
+![demo2](https://3.bp.blogspot.com/-BWbWyw83SDw/W9dHk0zbqTI/AAAAAAAAALk/q9slkDbsv8MOMF6kIYoYW1YmuP7uKTBBACLcBGAs/s320/kevins%2Bblog%2B4.gif)
 
 ## Requirements
 Python 3.X.X (only if running directly from main.py)
